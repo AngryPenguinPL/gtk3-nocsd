@@ -4,7 +4,7 @@ Release:	1
 Summary:	A hack to disable gtk+ 3 client side decoration 
 License:	LGPL-2.1
 URL:		https://github.com/PCMan/gtk3-nocsd
-Source0:	https://github.com/PCMan/gtk3-nocsd/archive/v%{version}.tar.gz
+Source0:	https://github.com/PCMan/gtk3-nocsd/archive/v%{version}/%{name}-%{version}.tar.gz
 
 BuildRequires: pkgconfig(pkg-config)
 BuildRequires: pkgconfig(gtk+-3.0)
